@@ -81,7 +81,7 @@
 Time Complexity is n^2 because here i used Two itarations .
 
 </p>
-  <img src='./Github/Images/BubbleSort.png'>
+  <img src='./images/BubbleSort.png'>
 
 </div>
 
